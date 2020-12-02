@@ -1,16 +1,16 @@
 {
-  "name": "@globules-io/cordova-plugin-ios-xhr",
+  "name": "cordova-plugin-ios-xhr",
   "version": "1.0.8",
   "description": "Cordova iOS 6+ File XHR Plugin",
   "cordova": {
-    "id": "@globules-io/cordova-plugin-ios-xhr",
+    "id": "cordova-plugin-ios-xhr",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/globules-io/cordova-plugin-ios-xhr"
+    "url": "https://github.com/josiaho/cordova-plugin-ios-xhr"
   },
   "keywords": [
     "cordova",
